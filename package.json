@@ -1,5 +1,6 @@
 {
   "name": "molarity-cal-app",
+  "homepage": "https://tekichan.github.io/molarity-cal-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
