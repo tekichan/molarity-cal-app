@@ -4,6 +4,10 @@
 
 The **Molarity Calculator** is a web application designed for chemistry students and laboratory technicians. It provides a simple interface for calculating the molarity of solutions with ease.
 
+### What is Molar Concentration?
+
+Molar concentration is a measure of the concentration of a solute in a solution, in terms of amount of substance per unit volume of solution. A solution with a concentration of 1 mol/L is said to be 1 molar, commonly designated as 1 M. [Source](https://en.wikipedia.org/wiki/Molar_concentration)
+
 ### Features
 
 - Real-time molarity calculations as users adjust input values.
