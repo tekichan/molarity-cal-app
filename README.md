@@ -13,6 +13,8 @@ The **Molarity Calculator** is a web application designed for chemistry students
 
 This app is built with ReactJS. For installation and further details, please refer to the official [React documentation](https://reactjs.org/docs/getting-started.html).
 
+You can access the web app at: [https://tekichan.github.io/molarity-cal-app/](https://tekichan.github.io/molarity-cal-app/)
+
 ### Tunable Parameters
 
 1. **Source Solution:**
