@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/molarity-cal-app/static/css/main.7fa9c49b.css",
-    "main.js": "/molarity-cal-app/static/js/main.b4278f45.js",
+    "main.css": "/molarity-cal-app/static/css/main.78b8860f.css",
+    "main.js": "/molarity-cal-app/static/js/main.d7646d70.js",
     "static/js/453.1b0d4f06.chunk.js": "/molarity-cal-app/static/js/453.1b0d4f06.chunk.js",
     "static/media/flask.svg": "/molarity-cal-app/static/media/flask.a14a1e97469ef1cfd3296219c06db892.svg",
     "static/media/cylinder.svg": "/molarity-cal-app/static/media/cylinder.cc4ef28f1d3acf4ac9330aed89eb30fb.svg",
     "static/media/beaker.svg": "/molarity-cal-app/static/media/beaker.043a07524a24ea97dd0fc23c53cbb48b.svg",
     "index.html": "/molarity-cal-app/index.html",
-    "main.7fa9c49b.css.map": "/molarity-cal-app/static/css/main.7fa9c49b.css.map",
-    "main.b4278f45.js.map": "/molarity-cal-app/static/js/main.b4278f45.js.map",
+    "main.78b8860f.css.map": "/molarity-cal-app/static/css/main.78b8860f.css.map",
+    "main.d7646d70.js.map": "/molarity-cal-app/static/js/main.d7646d70.js.map",
     "453.1b0d4f06.chunk.js.map": "/molarity-cal-app/static/js/453.1b0d4f06.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fa9c49b.css",
-    "static/js/main.b4278f45.js"
+    "static/css/main.78b8860f.css",
+    "static/js/main.d7646d70.js"
   ]
 }
