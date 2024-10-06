@@ -26,6 +26,25 @@ h1 {
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+.input-group {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  width: 80px;
+  padding: 5px;
+  margin: 0 5px;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+button {
+  padding: 5px 10px;
+  margin: 0 5px;
+  font-size: 1rem;
+}
+
 .source-solution {
   background-color: #ffefdb; /* Pale orange */
 }
@@ -41,18 +60,6 @@ h1 {
 img {
   width: 100px;
   height: auto;
-}
-
-label {
-  margin-top: 10px;
-}
-
-input {
-  width: 80px;
-  padding: 5px;
-  margin-bottom: 10px;
-  text-align: center;
-  font-size: 1.2rem; /* Increased font size */
 }
 
 @media only screen and (min-width: 600px) {
